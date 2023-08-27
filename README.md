@@ -1,8 +1,7 @@
   <div align=center>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%jihyeonjeong11)](https://hits.seeyoufarm.com) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jihyeonjeong11&label=Profile%20views&color=0e75b6&style=flat" alt="jihyeonjeong11" /> </p>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=github.com)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihyeonjeong11" alt="jihyeonjeong11" /></a> </p>
 	
   </div>
